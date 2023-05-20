@@ -1,0 +1,28 @@
+html {
+    background-color: black;
+}
+
+img {
+    height: 400px;
+    width: 700px;
+}
+
+#slika {
+    border: 5px solid white;
+    height: 400px;
+    width: 700px;
+    margin-top: 35px;
+    margin-left: 26%;  
+}
+
+h1 {
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
+
+p {
+    color: white;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+}
